@@ -1,0 +1,549 @@
+
+@import url('http://fonts.cdnfonts.com/css/stag-sans-light');
+.App {
+  text-align: center;
+  background-color: #CAECEC;
+}
+.tg2{position: absolute;
+  left: 17.67%;
+  right: 17.67%;
+  top: 11.34%;
+  bottom: 58.43%;
+  
+  }
+  .p7{position: absolute;
+    left: 9.19%;
+    right: 9.19%;
+    top: 63.66%;
+    bottom: 4.36%;
+    
+    font-family:'Stag Sans Light', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 19px;
+    
+    /* Azul BBVA */
+    color: #004481;}
+  .sub3{
+    position: absolute;
+left: 10.95%;
+right: 11.31%;
+top: 49.42%;
+bottom: 40.7%;
+
+font-family:  'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #004481;
+  }
+
+  .subpie{
+    font-family: 'Stag Sans Light', sans-serif;
+    position: absolute;
+left: 18.88%;
+right: 18.88%;
+
+bottom: 29.69%;
+
+font-family: Stag Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 38px;
+
+/* Azul BBVA */
+color: #004481;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .imCompro{
+    position: absolute;
+width: 519.54px;
+height: 342px;
+left: 819px;
+top: 2065px;
+
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  }
+  .p8{
+    position: absolute;
+width: 651px;
+height: 217px;
+left: 106px;
+top: 2190px;
+
+font-family:  'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 25px;
+
+/* Azul BBVA */
+color: #004481;
+  }
+  .tcompro{
+    position: absolute;
+width: 663px;
+height: 43px;
+left: 103px;
+top: 2132px;
+
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 38px;
+
+/* Azul BBVA */
+color: #004481;
+  }
+  .compromiso{
+    position: absolute;
+width: 1438px;
+height: 342px;
+left: 0px;
+top: 2965px;
+
+
+  }
+  .tg3{
+    position: absolute;
+left: 17.67%;
+right: 17.67%;
+top: 11.34%;
+bottom: 58.43%;
+  }
+
+  .tarjeta3{
+    background-color: #CAECEC;
+    position: absolute;
+width: 283px;
+height: 344px;
+left: 983px;
+top: 1547px;
+
+
+  }
+
+.row{
+  background-color:#CAECEC ;
+}
+.tg1{
+  position: absolute;
+left: 17.67%;
+right: 17.67%;
+top: 11.34%;
+bottom: 58.43%;
+}
+.sub1{
+  position: absolute;
+left: 10.95%;
+right: 11.31%;
+top: 49.42%;
+bottom: 40.7%;
+
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul BBVA */
+color: #004481;
+
+
+}
+
+.p5{
+  position: absolute;
+left: 9.19%;
+right: 9.19%;
+top: 63.66%;
+bottom: 4.36%;
+
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 19px;
+
+/* Azul BBVA */
+color: #004481;
+}
+.p{
+ 
+  color: #004481;
+ font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 26px;
+}
+.p2{
+  position: absolute;
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 25px;
+
+/* Azul BBVA */
+color: #004481;
+
+
+}
+.p3{
+  position: absolute;
+
+
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 25px;
+
+/* Azul BBVA */
+color: #004481;
+
+
+}
+.p6{
+  position: absolute;
+left: 9.19%;
+right: 9.19%;
+top: 63.66%;
+bottom: 4.36%;
+
+font-family:'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 19px;
+
+/* Azul BBVA */
+color: #004481;
+}
+.sub2{
+  position: absolute;
+left: 10.95%;
+right: 11.31%;
+top: 49.42%;
+bottom: 40.7%;
+
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Azul BBVA */
+color: #004481;
+}
+.tarjeta2{
+  position: absolute;
+width: 283px;
+height: 344px;
+left: 585px;
+top: 1549px;
+background-color: #CAECEC;
+}
+.tarjeta{
+  position: absolute;
+width: 283px;
+height: 344px;
+left: 174px;
+top: 1549px;
+background-color: #CAECEC;
+}
+.pie{
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+
+position: absolute;
+width: 412px;
+height: 468px;
+left: 921px;
+top: 196px;
+background-color: #FFFFFF;
+}
+.logbbva{
+  
+width: 220px;
+height: 68px;
+left: 92px;
+top: 2634px;
+
+}
+.caja1{
+  position: absolute;
+  
+width: 1258px;
+height: 321px;
+left: 76px;
+top:1951px;
+
+
+/* Verde fondo 2 */
+background: #5b2488;
+}
+.footer{
+  position: absolute;
+width: 1438px;
+height: 385px;
+left: 0px;
+top: 2547px;
+
+/* AZUL OSCURO */
+background: #072146;
+}
+.btnHuella{
+  font-family: 'Stag Sans Light', sans-serif;
+  border-radius: 4px;
+  position: absolute;
+left: 29.13%;
+right: 18.62%;
+top: 74.11%;
+bottom: 11.16%;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 25px;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Blanco crudo */
+color: #FFFFFF;
+
+filter: drop-shadow(0px 6px 23px rgba(0, 0, 0, 0.25));
+background-color: #02A5A5;
+}
+.imPie{
+  position: absolute;
+  left: 27.55%;
+  right: 27.55%;
+  top: 2.46%;
+  bottom: 47.1%;
+
+}
+.p0{
+  position: absolute;
+left: 6.81%;
+right: 41.88%;
+top: 58.5%;
+bottom: 76.02%;
+
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+
+.titulo{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 637px;
+height: 130px;
+left: 98px;
+top: 234px;
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 67px;
+
+/* Blanco crudo */
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 39px 0px;
+
+
+}
+.p4{
+  position: absolute;
+width: 770px;
+height: 77px;
+left: 339px;
+top: 1424px;
+
+font-family: 'Stag Sans Light', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 38px;
+display: flex;
+align-items: center;
+
+/* Azul BBVA */
+color: #004481;
+}
+
+.cuadro1{
+  position: absolute;
+width: 392px;
+height: 448px;
+left: 931px;
+top: 206px;
+
+filter: drop-shadow(-1px 9px 20px rgba(0, 0, 0, 0.05));
+}
+
+.btnConocer{
+  position: absolute;
+width: 244px;
+height: 66px;
+left: 211px;
+top: 1179px;
+
+filter: drop-shadow(0px 6px 23px rgba(0, 0, 0, 0.25));
+}
+.f1{position: absolute;
+  width: 1440px;
+  height: 713px;
+  left: 0px;
+  top: 0px;
+  
+  background: linear-gradient(256.61deg, rgba(0, 0, 0, 0) 27.94%, rgba(69, 69, 69, 0.64636) 58.84%, rgba(0, 0, 0, 0.67) 84.38%);
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.dialog1{
+  
+position: absolute;
+width: 740px;
+height: 468px;
+left: 583px;
+top: 840px;
+background: #F7FDFD;
+backdrop-filter: blur(4px);
+
+
+}
+
+.im2{
+  position: absolute;
+width: 460px;
+height: 468px;
+left: 103px;
+top: 840px;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid lightgray;
+  padding: 50px;
+}
+
+.Button {
+  padding: 40px;
+}
+.App-header {
+  background-color: #eceff5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
